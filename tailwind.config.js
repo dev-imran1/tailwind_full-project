@@ -20,7 +20,7 @@ tailwind.config = {
             'container': '1280px',
         },
         backgroundImage: {
-            'banner': "url('/images/banner.jpg')",
+            'banner': "url('./images/banner.jpg')",
         },
         spacing: {
             'btn-padding': '20px 48px',
