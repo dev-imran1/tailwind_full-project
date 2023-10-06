@@ -21,6 +21,9 @@ tailwind.config = {
         },
         backgroundImage: {
             'banner': "url('./images/banner.jpg')",
+            'overlay': "linear-gradient(184deg, #060606 16.68%, rgba(0, 0, 0, 0.07) 50.44%)",
+            'banner-overlay': "linear-gradient(184deg, #060606 16.68%, rgba(0, 0, 0, 0.001) 90.44%)",
+            'font-linear': "linear-gradient(110deg, #A54E2B -53.83%, #DC9853 62.61%)",
         },
         spacing: {
             'btn-padding': '20px 48px',
